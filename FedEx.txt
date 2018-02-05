@@ -1,1 +1,2 @@
-Accessible:Yes
+FedExAccessible:Yes
+CoPilotAccessible:Yes
